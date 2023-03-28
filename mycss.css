@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(206, 253, 203);
+}
+.c{
+  background-color: rgb(206, 253, 203);
+}
+.form{
+    background-color: aliceblue;
+}
+.header{
+    padding: 1cm;
+    background-color: whitesmoke;
+    border-bottom: 7px solid rgb(179, 249, 175);
+}
+
+.headerx{
+  padding: 0.5cm;
+  background-color: rgb(179, 249, 175);
+  /* border-bottom: 7px solid rgb(179, 249, 175); */
+}
+.myp{
+  padding: 0.5cm;
+  background-color: rgb(179, 249, 175);
+  /* border-bottom: 7px solid rgb(179, 249, 175); */
+}
+.headerx h1{
+  /* padding: 1cm; */
+  color: rgb(254, 255, 254);
+  /* border-bottom: 7px solid rgb(179, 249, 175); */
+}
+.myp{
+  /* background-color: rgb(1, 14, 1); */
+  /* border: 4px solid rgb(1, 2, 1); */
+  padding: 1cm;
+}
+img{
+    height: 2cm;
+    height: 3cm;
+}
+h3{
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+  /* /////////////////////////////////////////////////////////////////////////////// */
+  .menudiv{
+    background-color: whitesmoke;
+    border-left: 7px solid rgb(179, 249, 175);
+    border-right: 7px solid rgb(179, 249, 175);
+    height: 15cm;
+    padding-top: 1cm;
+  }
+  .list-group-item{
+    background-color: whitesmoke;
+    border: 0px solid whitesmoke;
+    border-bottom: 3px solid rgb(179, 249, 175);
+
+  }
+  .list-group-item:hover{
+    background-color: rgb(236, 250, 244);
+    border: 0px solid whitesmoke;
+    border-bottom: 3px solid rgb(10, 23, 10);
+    /* font-size: large; */
+
+  }
+  .statistics  .col-md-4{
+    background-color: rgb(28, 31, 28);
+    height: 5cm;
+    padding: 1cm;
+    margin: 1cm;
+  }
+  .statistics{
+    background-color: rgb(255, 255, 255);
+    /* height: 5cm;
+    gap: 1cm */
+  }
+  a{
+    text-decoration: none;
+  }
